@@ -1,0 +1,4 @@
+interface:
+  display_name: "DreamSchool 学科知识库"
+  short_description: "检索 DreamSchool 学科知识库，并基于 OCR 教辅资料生成教学材料。"
+  default_prompt: "使用 DreamSchool 学科知识库查找资料，或基于知识库生成讲义、教案、练习题、试卷等 Markdown 教学材料。"
